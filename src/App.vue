@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="@/assets/logo.png">
-    <h3>200000000</h3>
+    <router-view></router-view>
   </div>
 </template>
 
