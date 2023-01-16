@@ -1,6 +1,6 @@
 <template>
-    <div class="me">
-        <h3>me</h3>
+    <div class="e-404">
+        <h3>404</h3>
         <router-link to="/">index</router-link>
     </div>
 </template>

@@ -1,6 +1,7 @@
 <template>
   <div class="index">
-    index
+   <h3>index</h3>
+    <router-link to="/me">me</router-link>
   </div>
 </template>
 
